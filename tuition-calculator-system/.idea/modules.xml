@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/finaid-service.iml" filepath="$PROJECT_DIR$/.idea/modules/finaid-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/finaid-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/finaid-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/finaid-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/finaid-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tuition-calculator-system.iml" filepath="$PROJECT_DIR$/.idea/tuition-calculator-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tuition-service.iml" filepath="$PROJECT_DIR$/.idea/modules/tuition-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tuition-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tuition-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tuition-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/tuition-service.test.iml" />
+    </modules>
+  </component>
+</project>
