@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/finaid-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/finaid-service.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/finaid-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/finaid-service.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tuition-calculator-system.iml" filepath="$PROJECT_DIR$/.idea/tuition-calculator-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuition-edge/tuition-edge.iml" filepath="$PROJECT_DIR$/tuition-edge/tuition-edge.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tuition-service.iml" filepath="$PROJECT_DIR$/.idea/modules/tuition-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tuition-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tuition-service.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tuition-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/tuition-service.test.iml" />
