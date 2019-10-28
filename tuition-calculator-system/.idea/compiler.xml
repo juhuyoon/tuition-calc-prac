@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tuition-edge" />
+      </profile>
+    </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eureka-server.main" target="1.8" />
       <module name="eureka-server.test" target="1.8" />
       <module name="finaid-service.main" target="1.8" />
       <module name="finaid-service.test" target="1.8" />
+      <module name="tuition-edge" target="1.8" />
       <module name="tuition-service.main" target="1.8" />
       <module name="tuition-service.test" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tuition-edge" options="-parameters" />
+    </option>
   </component>
 </project>
